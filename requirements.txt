@@ -1,0 +1,7 @@
+# Pin exact versions after confirming the environment used for the original project.
+numpy
+opencv-python
+insightface
+onnxruntime
+SQLAlchemy
+pgvector
